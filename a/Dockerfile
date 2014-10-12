@@ -1,3 +1,3 @@
 FROM ubuntu:14.04
 
-CMD ["echo", "a"]
+CMD ["echo", "aaa"]
